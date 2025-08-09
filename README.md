@@ -1,4 +1,4 @@
-This project was carried out as an undergraduate capstone project in collaboration with [@Ahmet Selçuk KÜREN]([https://github.com/kullanici-adi](https://github.com/as-krn)).
+This project was carried out as an undergraduate capstone project in collaboration with [@Ahmet Selçuk KÜREN](https://github.com/as-krn).
 
 ---
 
